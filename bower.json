@@ -1,8 +1,8 @@
 {
-  "name": "openrecipesearch-demo",
+  "name": "recipesearch",
   "version": "0.0.0",
   "authors": [
-    "Adam <adam@adambard.com>"
+    "Prateek <prateek@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
